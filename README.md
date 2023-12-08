@@ -48,5 +48,11 @@ Obtém detalhes de um produto com base no ID fornecido. Trata erros caso o produ
 Calcula o custo de frete para um produto com base no ID e no CEP fornecidos, seguindo as regras especificadas. Trata erros e utiliza a função assíncrona getStateFromZipcode para obter o estado a partir do CEP.
 
 ## Resultados
-### Listagem de Produtos
-![](./assets/produtos.png)
+#### Listagem de Produtos
+## ![Listagem](produtos.png) 
+
+#### Obter Produtos
+## ![Obter Produtos](obterProduto.png)
+
+#### Calcular Frete
+## ![Calcular Frete](calcularFrete.png)
